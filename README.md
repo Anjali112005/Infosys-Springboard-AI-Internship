@@ -49,23 +49,6 @@ The primary goal is to improve the factual accuracy, transparency, and reliabili
 - Provide confidence scores for assessments.
 - Recommend corrections and improvements.
 
-## 🛠️ Proposed Technology Stack
-
-*The final technology stack will be confirmed after the initial research and system architecture design.*
-
-| Component | Proposed Technologies |
-|---|---|
-| Programming Language | Python |
-| Large Language Models | Gemini / OpenAI |
-| NLP & Text Processing | Transformers, Sentence Transformers |
-| RAG Framework | LangChain |
-| Embedding Models | Sentence Transformers |
-| Vector Database | FAISS / ChromaDB |
-| Evaluation Frameworks | RAGAS, TruLens |
-| Reference Datasets | TruthfulQA, SQuAD |
-| Interface | Streamlit |
-| Version Control | Git, GitHub |
-
 ## 🏗️ Project Architecture
 
 The proposed workflow consists of the following stages:
